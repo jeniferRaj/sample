@@ -1,0 +1,16 @@
+
+pass input text file in command line arg as and run 
+   java CreateFILE text.txt
+
+(the file contains value as like follow:
+GOOG-50,MS-10
+SGI-100,GOOG-50,MS-10
+GOOG-100,AMZN-90,MS-80
+just for example)
+
+
+output will be
+
+GOOG-50,MS-10
+SGI-100,GOOG-50,MS-10
+GOOG-100,AMZN-90,MS-80
